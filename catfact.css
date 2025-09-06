@@ -1,0 +1,12 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color:slategrey;
+}
+p{
+    color:black;
+    font-weight: 700;
+    line-height: 40px;
+    font-size: 20px;
+}

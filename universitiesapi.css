@@ -1,0 +1,33 @@
+*{
+    font-family: 'poppins',sans-serif;
+}
+body{
+    background: linear-gradient(90deg,rgb(75, 74, 74),black);
+    margin-left: 30px;
+}
+h1{
+    color:#fff;
+}
+input{
+    border: 2px solid black;
+    border-radius: 20px;
+    text-align: center;
+    height: 30px;
+    width: 200px;
+}
+input:hover{
+    background-color: #fff;
+    color:black;
+}
+button{
+    border: 2px solid black;
+    border-radius:20px ;
+    text-align: center;
+    height: 35px;
+    width: 100px;
+    color: grey;
+}
+button:hover{
+    background-color: #fff;
+    color: black;
+}
